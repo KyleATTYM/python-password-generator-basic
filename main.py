@@ -14,4 +14,4 @@ def password_generator():
         password += random.choice(characters)
     #print out the password
     print(f"Your password is : {password}")
-password_generator()
+password_generator() 
